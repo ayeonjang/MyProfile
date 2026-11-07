@@ -1,33 +1,54 @@
 ---
-title: "About"
+title: "About Me"
 layout: "about"
-summary: "Learn about Hugo Narrow theme and its technology stack"
-date: 2024-01-01T00:00:00+08:00
+date: 2026-11-07
 links:
-  - name: "Hugo Docs"
-    url: "https://gohugo.io"
-    icon: "https://gohugo.io/favicon.ico"
-    description: "The world's fastest static site generator"
-  - name: "Tailwindcss"
-    url: "https://tailwindcss.com"
-    description: "CSS framework"
   - name: "GitHub"
     url: "https://github.com"
-    icon: "https://github.com/fluidicon.png"
+    icon: "https://github.com/ayeonjang"
     description: "The world's largest code hosting platform. "
   
 
 ---
 
-Hugo Narrow is a modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. It's designed as a blog theme with extensive customization options including multiple color schemes, dark mode support, and responsive design.
+# About Me
 
-## Technology Stack
+안녕하세요! 저는 전북대학교 컴퓨터인공지능학부에 재학 중인 장아연입니다.
 
-- Hugo Extended
-- Tailwind CSS 4.0
-- Glightbox
-- fjGallery
-- Macy.js
-- gumshoe
-- ...
+컴퓨터과학과 인공지능을 공부하며 기술을 통해 현실 세계의 문제를 해결하는 방법에 관심을 가지고 있습니다. 특히 인공지능이 실제 물리적 환경과 상호작용하며 다양한 문제를 해결하는 Physical AI & Robotics 분야에 관심이 있습니다.
 
+## Interests
+
+### Physical AI & Robotics
+
+제가 가장 관심을 가지고 있는 분야는 Physical AI와 Robotics입니다.
+
+기존의 인공지능이 주로 데이터와 가상 환경에서 정보를 처리하는 데 집중했다면, Physical AI는 실제 물리적 환경을 인식하고 판단하며 행동으로 연결한다는 점에서 매력을 느꼈습니다.
+
+특히 로봇이 주변 환경을 인식하고, 인공지능을 기반으로 자율적인 판단과 행동을 수행하는 과정에 관심이 있습니다.
+
+## Learning Goals
+
+Physical AI와 Robotics 분야를 깊이 있게 이해하기 위해 기초부터 차근차근 학습하고 있습니다.
+
+앞으로 다음 역량을 중점적으로 발전시키고자 합니다.
+
+- **Artificial Intelligence**: 머신러닝과 딥러닝의 기본 원리를 이해하고, 데이터 기반 학습 및 추론 기술을 활용하여 이미지 인식, 자연어 처리, 예측 및 분류 등 다양한 문제를 해결하는 방법을 탐구합니다.
+
+- **Programming**: Python과 C/C++을 활용하여 알고리즘 및 자료구조를 학습하고, 효율적인 문제 해결 능력을 기릅니다. 인공지능 모델 구현부터 시스템 프로그래밍까지 다양한 소프트웨어 개발 기술을 익히는 데 관심이 있습니다.
+
+- **Robotics**: 로봇의 센서 기반 환경 인식, 모터 및 액추에이터 제어, 자율주행과 경로 계획 등 로봇 시스템의 핵심 기술을 탐구합니다. 센서 데이터와 제어 알고리즘을 활용하여 주변 환경을 인식하고 자율적으로 동작하는 로봇을 구현하는 데 관심이 있습니다.
+
+- **Physical AI**: 인공지능과 실제 물리적 환경을 연결하는 피지컬 AI 기술을 중점적으로 탐구합니다. 컴퓨터 비전, 센서 융합, 강화학습 및 모방학습 등을 활용하여 로봇이 환경을 인식하고 상황을 판단하며 자율적으로 행동하는 기술에 관심이 있습니다. 특히 시뮬레이션과 실제 환경 간의 차이를 극복하고, 인간과 상호작용하며 복잡한 작업을 수행하는 지능형 로봇 시스템 구현을 목표로 합니다.
+
+이를 위해 관련 전공 수업과 개인 프로젝트에 꾸준히 참여하고, 학습한 내용을 직접 구현하며 실무적인 역량을 쌓아갈 계획입니다.
+
+## Technical Interests
+
+현재 컴퓨터인공지능학부에서 프로그래밍과 컴퓨터과학의 기초를 학습하고 있으며, 배운 내용을 프로젝트와 실습에 적용하는 경험을 쌓고 있습니다.
+
+새로운 기술을 배우는 것에 그치지 않고, 직접 구현하고 결과를 확인하는 과정을 중요하게 생각합니다.
+
+## Contact
+
+- **Email:** ayeonjang2@jbnu.ac.kr
