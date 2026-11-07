@@ -46,6 +46,20 @@ The timeout threshold was 15 seconds.
 
 AC-3 successfully solved the tested 15×15 puzzle within 0.136 seconds, while the other two approaches exceeded the time limit.
 
+The following images show visual materials from the Nonogram CSP Solver project.
+
+images/nonogram1.png
+
+
+
+images/nonogram2.png
+
+
+
+images/nonogram3.png
+
+
+
 ## What I Learned
 
 Through this project, I gained experience in CSP modeling, Backtracking Search, constraint propagation, algorithm performance analysis, and debugging.
