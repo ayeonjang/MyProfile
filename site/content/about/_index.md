@@ -1,19 +1,17 @@
 ---
-title: "About Me"
+title: "About"
 layout: "about"
 date: 2026-11-07
 links:
   - name: "GitHub"
-    url: "https://github.com"
-    icon: "https://github.com/ayeonjang"
-    description: "The world's largest code hosting platform. "
+    url: "https://github.com/ayeonjang"
+    icon: "https://github.com"
+    description: "The world's largest code hosting platform."
   
 
 ---
 
-# About Me
-
-안녕하세요! 저는 전북대학교 컴퓨터인공지능학부에 재학 중인 장아연입니다.
+안녕하세요 저는 전북대학교 컴퓨터인공지능학부에 재학 중인 장아연입니다.
 
 컴퓨터과학과 인공지능을 공부하며 기술을 통해 현실 세계의 문제를 해결하는 방법에 관심을 가지고 있습니다. 특히 인공지능이 실제 물리적 환경과 상호작용하며 다양한 문제를 해결하는 Physical AI & Robotics 분야에 관심이 있습니다.
 
