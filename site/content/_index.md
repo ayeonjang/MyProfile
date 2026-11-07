@@ -2,9 +2,9 @@
 date: 2025-12-31
 title: "Home"
 author:
-  name: "Hugo Narrow"
-  title: "A Clean and Minimal Hugo Theme"
-  description: "Focused on content and user experience."
+  nname: "장아연 | Ayeon Jang"
+  title: "전북대학교 컴퓨터인공지능학부 학부생 | BS Student, CSAI JBNU"
+  description: "Exploring Physical AI and Robotics. Interested in intelligent systems that connect artificial intelligence with the physical world."
   avatar: "/images/avatar.svg"
   social:
     - name: "GitHub"
