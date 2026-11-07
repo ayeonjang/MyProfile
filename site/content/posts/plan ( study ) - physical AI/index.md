@@ -1,6 +1,6 @@
 ---
 title: "Physical AI 통합 및 실제 시스템 적용"
-date: 2026-11-10
+date: 2026-11-07
 summary: "인공지능과 로보틱스 기술을 결합하여 실제 환경에서 동작하는 지능형 시스템 이해하기"
 series: ["Physical AI & Robotics: From Foundations to Intelligent Systems"]
 series_order: 4
