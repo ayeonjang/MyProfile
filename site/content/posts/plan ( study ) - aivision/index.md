@@ -1,6 +1,6 @@
 ---
 title: "인공지능 및 컴퓨터 비전"
-date: 2026-11-08
+date: 2026-11-07
 summary: "Physical AI의 지능을 구현하기 위한 머신러닝, 딥러닝 및 컴퓨터 비전 학습"
 series: ["Physical AI & Robotics: From Foundations to Intelligent Systems"]
 series_order: 2
