@@ -1,6 +1,6 @@
 ---
 title: "로보틱스 및 제어 시스템"
-date: 2026-11-09
+date: 2026-11-07
 summary: "로봇의 움직임과 주변 환경을 이해하고 제어하기 위한 핵심 기술 학습"
 series: ["Physical AI & Robotics: From Foundations to Intelligent Systems"]
 series_order: 3
